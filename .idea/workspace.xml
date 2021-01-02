@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcc67504-22a6-4c7e-bf6c-d476f6745297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pypi-test-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypi-test-example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypi-test-example/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypi-test-example/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypi-test-example/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypi-test-example/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypi-test-example/pypitest.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="phl" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f7341220-5987-4f72-bce6-c3a0ef3b633c" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/18077522544/pypi-test-example" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5f555bfa-3c08-4b3c-be26-02978a64e31f" />
+  <component name="ProjectId" id="1mVJ9A4VX6JBqX90TcQ5VZIhAfJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowSVN Repositories.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="pypi-test-example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\pypi_test_vir\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pypi-test-example" type="Python.DjangoServer" factoryName="Django server">
+      <module name="pypi-test-example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pypi-test-example.settings" />
+      </envs>
+      <option name="SDK_HOME" value="F:\pypi_test_vir\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Shinelon\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="" name="更新" comment="" />
+      <created>1609572670627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609572670627</updated>
+      <workItem from="1609572671704" duration="140000" />
+      <workItem from="1609572829969" duration="2054000" />
+      <workItem from="1609575186835" duration="3222000" />
+      <workItem from="1609578683716" duration="3925000" />
+      <workItem from="1609584043785" duration="408000" />
+      <workItem from="1609584469257" duration="1186000" />
+      <workItem from="1609585667287" duration="681000" />
+      <workItem from="1609586357040" duration="1012000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1609577812449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609577812449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1609581443790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609581443790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;更新&quot;&#10;&#10;This reverts commit f6624bbc">
+      <created>1609582389252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609582389252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="更新" />
+    <MESSAGE value="Revert &quot;更新&quot;&#10;&#10;This reverts commit f6624bbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="235" key="#Notifications" timestamp="1609575682147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1609575682147" />
+    <state x="171" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609585732313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609585732313" />
+    <state x="354" y="0" key="CommitChangelistDialog2" timestamp="1609582382053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="354" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609582382053" />
+    <state x="-50" y="129" width="1350" height="638" key="DiffContextDialog" timestamp="1609581908473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-50" y="129" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1609581908473" />
+    <state x="330" y="211" width="852" height="511" key="EnvironmentVariablesDialog" timestamp="1609574633179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="211" width="852" height="511" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609574633179" />
+    <state x="532" y="235" key="FileChooserDialogImpl" timestamp="1609586353502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="235" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609586353502" />
+    <state x="551" y="340" key="Github.CreateGistDialog" timestamp="1609574727182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="340" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1609574727182" />
+    <state width="1493" height="355" key="GridCell.Tab.0.bottom" timestamp="1609586354664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609586354664" />
+    <state width="1493" height="355" key="GridCell.Tab.0.center" timestamp="1609586354664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="355" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609586354664" />
+    <state width="1493" height="355" key="GridCell.Tab.0.left" timestamp="1609586354664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="355" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609586354664" />
+    <state width="1493" height="355" key="GridCell.Tab.0.right" timestamp="1609586354664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="355" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609586354664" />
+    <state x="475" y="146" width="537" height="559" key="RollbackChangesDialog" timestamp="1609584565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="146" width="537" height="559" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609584565153" />
+    <state x="48" y="83" key="SettingsEditor" timestamp="1609587370960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="83" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609587370960" />
+    <state x="586" y="326" width="455" height="240" key="VCS.ChangelistChooser" timestamp="1609582416184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" width="455" height="240" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1609582416184" />
+    <state x="506" y="246" width="466" height="335" key="VCS.EditChangelistDialog" timestamp="1609584637923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="246" width="466" height="335" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1609584637923" />
+    <state x="109" y="134" width="938" height="581" key="Vcs.Push.Dialog.v2" timestamp="1609587334072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="109" y="134" width="938" height="581" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609587334072" />
+    <state x="10" y="102" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609578395308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="10" y="102" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1609578395308" />
+    <state x="342" y="253" width="630" height="291" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609587234841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="253" width="630" height="291" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609587234841" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609583100327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609583100327" />
+    <state x="534" y="188" key="svn.repositoryBrowser" timestamp="1609585013122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="188" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1609585013122" />
+  </component>
+</project>

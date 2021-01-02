@@ -1,0 +1,14 @@
+README.md
+setup.py
+pypi_test/manage.py
+pypi_test/pypi_test/__init__.py
+pypi_test/pypi_test/asgi.py
+pypi_test/pypi_test/settings.py
+pypi_test/pypi_test/urls.py
+pypi_test/pypi_test/wsgi.py
+pypi_test/pypitest.egg-info/PKG-INFO
+pypi_test/pypitest.egg-info/SOURCES.txt
+pypi_test/pypitest.egg-info/dependency_links.txt
+pypi_test/pypitest.egg-info/entry_points.txt
+pypi_test/pypitest.egg-info/requires.txt
+pypi_test/pypitest.egg-info/top_level.txt
