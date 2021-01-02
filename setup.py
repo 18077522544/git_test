@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pypi-test-example',
-    version='0.1',
+    version='0.2',
     description='django install by pypi',
     author="phl",
     author_email="author@example.com",
@@ -32,5 +32,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.8',
+    # python_requires='>=3.8',
 )
